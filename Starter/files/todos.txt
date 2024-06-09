@@ -1,0 +1,18 @@
+Java
+Python
+Javascript
+Node Js
+React Js
+Angular Js
+Spring Boot
+Typescript
+Data Structures
+Algorithm
+Docker & Kubernetes
+Microservices Architecture
+Mathematics For Ml
+Machine Learning
+Deep Learning
+Langchain
+Go Lang
+Grpc
