@@ -1,19 +1,18 @@
-Java
+Core Java
 Python
 Javascript
 Node Js
 React Js
 Angular Js
-Spring Boot
+Spring Framework & Spring Boot
 Typescript
 Data Structures
 Algorithm
 Docker & Kubernetes
 Microservices Architecture
-Mathematics For Ml
+Mathematics
 Machine Learning
 Deep Learning
-Langchain
-Go Lang
-Grpc
-System Design Practices
+Golang
+System Design Fundamentals
+Langchain 
