@@ -14,5 +14,3 @@ Mathematics
 Machine Learning
 Deep Learning
 Golang
-System Design Fundamentals
-Langchain 
