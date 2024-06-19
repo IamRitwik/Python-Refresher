@@ -1,5 +1,5 @@
 /Starter/.venv/
-/todo-web/.venv
-/Starter/.idea
-/todo-web/.idea
+/todo-web/.venv/
+/Starter/.idea/
+/todo-web/.idea/
 /*.zip
