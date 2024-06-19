@@ -1,0 +1,10 @@
+Core Java
+Python
+Javascript
+Typescript
+Spring Framework
+Spring Boot
+Docker
+Kubernetes
+Azure Kubernetes Services
+Python Frameworks for machine Learning
