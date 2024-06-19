@@ -14,8 +14,13 @@ def addTodo():
 st.title('My Todo App')
 st.subheader('Write your todos:')
 
-for todo in todos:
-    st.checkbox(todo)
+for index, todo in enumerate(todos):
+    checkbox = st.checkbox(todo, key=todo)
+    if checkbox:
+        todos.pop(index)
+        functions.writeTodos(todos)
+        del st.session_state[todo]
+        st.rerun()
 
 st.text_input(label='', placeholder='Add a todo',
               on_change=addTodo, key="todo")
