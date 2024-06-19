@@ -10,7 +10,13 @@ Data Structures
 Algorithm
 Docker & Kubernetes
 Microservices Architecture
-Mathematics
+Mathematics for Machine Learning
 Machine Learning
 Deep Learning
 Golang
+Langchain
+System Design Fundamentals
+Azure Kubernetes Services
+Backend Engineering Fundamentals
+Microservices With Spring Boot & Aws
+Microservices With Node Js & Events
