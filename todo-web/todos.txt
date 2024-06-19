@@ -1,0 +1,8 @@
+Javascript
+Typescript
+Spring Framework
+Spring Boot
+Docker
+Kubernetes
+Core Java
+Python
