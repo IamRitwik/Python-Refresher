@@ -5,3 +5,5 @@
 /portfolio-app/.venv/
 /portfolio-app/.idea/
 /*.zip
+/*.venv
+/*.idea
