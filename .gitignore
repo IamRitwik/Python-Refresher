@@ -2,4 +2,6 @@
 /todo-web/.venv/
 /Starter/.idea/
 /todo-web/.idea/
+/portfolio-app/.venv/
+/portfolio-app/.idea/
 /*.zip
