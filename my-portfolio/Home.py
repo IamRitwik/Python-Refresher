@@ -23,7 +23,7 @@ Below are some of the apps I have developed along with links to source code.
 """
 st.write(content_title)
 
-col3, col4 = st.columns(2)
+col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
 
 df = pandas.read_csv("data.csv", sep=";")
 
@@ -31,8 +31,18 @@ with col3:
     for index, row in df[:10].iterrows():
         title = row["title"]
         st.header(title)
+        description = row["description"]
+        st.write(description)
+        thumbnail = "images/" + row["image"]
+        st.image(thumbnail)
+        st.write("[Source Code](https://github.com/IamRitwik/Python-Refresher.git)")
 
 with col4:
     for index, row in df[10:].iterrows():
         title = row["title"]
         st.header(title)
+        description = row["description"]
+        st.write(description)
+        thumbnail = "images/" + row["image"]
+        st.image(thumbnail)
+        st.write("[Source Code](https://github.com/IamRitwik/Python-Refresher.git)")
