@@ -1,0 +1,14 @@
+Typescript
+Docker
+Kubernetes
+Core Java
+Python
+Machine Learning
+Deep Learning
+Azure Kubernetes Services
+C/C++ Programming
+Grpc
+Go Programming
+Rust
+Cryptography
+Spring Boot

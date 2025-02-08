@@ -6,3 +6,6 @@ Docker
 Kubernetes
 Core Java
 Python
+Go
+Rust
+C/C++

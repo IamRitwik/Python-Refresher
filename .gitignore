@@ -1,10 +1,10 @@
-/Starter/.venv/
-/todo-web/.venv/
-/Starter/.idea/
-/todo-web/.idea/
+/1.starter/.venv/
+/2.todo-web/.venv/
+/1.starter/.idea/
+/2.todo-web/.idea/
 /*.zip
 /*.venv
 /*.idea
-/my-portfolio/.idea/
-/my-portfolio/.venv/
+/3.portfolio-app/.idea/
+/3.portfolio-app/.venv/
 

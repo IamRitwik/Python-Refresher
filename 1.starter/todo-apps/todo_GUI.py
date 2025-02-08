@@ -10,12 +10,12 @@ sg.theme('Black')
 
 label = sg.Text("Add a todo item: ")
 inputBox = sg.InputText(tooltip="Enter todo", key="todo")
-addButton = sg.Button(size=2, image_source="files/add.png",
+addButton = sg.Button(size=2, image_source="../files/add.png",
                       mouseover_colors="LightBlue", tooltip="Add a todo", key="Add")
 listBox = sg.Listbox(values=functions.getTodos(), key="todos",
                      enable_events=True, size=[45, 15])
 editButton = sg.Button("Edit")
-completeButton = sg.Button(size=2, image_source="files/complete.png",
+completeButton = sg.Button(size=2, image_source="../files/complete.png",
                            mouseover_colors="LightBlue", tooltip="Complete a todo", key="Complete")
 exitButton = sg.Button("Exit")
 

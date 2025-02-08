@@ -8,7 +8,7 @@ for content, fileName in zip(contents, fileNames):
     file.write(content)
     file.close()
 
-file = open("files/test.txt", "w")
+file = open("../files/test.txt", "w")
 file.write("Test Data")
 file.close()
 
